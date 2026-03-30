@@ -64,7 +64,7 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argocd-icon-color.svg" width="40"/>
+<img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="40"/>
 </p>
 
 #### 🤖 AI / ML
@@ -79,8 +79,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahil1320&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil1320&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=sahil1320&show_icons=true&theme=radical&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil1320&layout=compact&theme=radical" />
 </p>
 
 ---
